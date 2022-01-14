@@ -1,4 +1,4 @@
-lign="center">
+align="center">
  <img src="https://raw.githubusercontent.com/savazeb/assets/master/ms2022/cosmos_logo.png?token=AKUXRJMWDOLNQQVHSY2THMLBYYJMA" alt="COSMOS">
 </h1>
 <h4 align="center">an UFO fighting robots.</h4>
